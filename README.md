@@ -1,6 +1,6 @@
 ## Hey , I'm Chris
 
-I study Computer Science at Aristotle University and right now I'm doing my thesis in Continual Learning.
+I study [Computer Science](https://csd.auth.gr/) at [Aristotle University](https://www.auth.gr/) and right now I'm working on my thesis in Continual Learning.
 
 <!-- Prints Stats For Public Repositories -->
 <!-- <img align="center" alt="tsiggi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tsiggi&theme=tokyonight" />
