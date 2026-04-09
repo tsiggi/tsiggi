@@ -1,4 +1,4 @@
-## Hey , I'm Chris
+## Hey there, I'm Chris (or Tsigi)
 
 I study [Computer Science](https://csd.auth.gr/) at [Aristotle University](https://www.auth.gr/) and right now I'm working on my thesis in Continual Learning.
 
